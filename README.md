@@ -15,6 +15,7 @@ Software Developer at IBM: Contributed to IBM Power Virtual Server development a
 Email: pnvdedeepya@gmail.com
 
 💻 Skills:
+
 Languages: Java, Python, C++, JavaScript, HTML, CSS, TypeScript
 
 Cloud & Frameworks: AWS, Azure, Spring, Django, ReactJS, NodeJS
