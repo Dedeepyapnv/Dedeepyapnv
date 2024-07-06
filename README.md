@@ -1,13 +1,16 @@
 👋 Hi there! I'm Dedeepya, a software developer passionate about Java, Python, AI, machine learning and cloud technologies.
 
 🔭 Currently Working On:
+
 EduChatBot Project: Enhancing educational experiences with AI and NLP.
 
 🌱 Interested In:
+
 Exploring new technologies and frameworks in machine learning and web application development.
 Contributing to open-source projects.
 
 💼 Work Experience:
+
 Software Developer at IBM: Contributed to IBM Power Virtual Server development and cloud resource optimization.
 
 📫 How to Reach Me:
