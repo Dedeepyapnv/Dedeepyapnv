@@ -4,13 +4,10 @@
 💻 An experienced Software Engineer<br>🎓Currently pursuing Masters in Computer Science at TAMUK ( May'25)<br>💼 Ex-IBM, VRSEC'23<br>
 
 <br />
-
-🔭 Currently Working On:
-
+🔭 Currently Working On:<br>
 EduChatBot Project: Enhancing educational experiences with AI and NLP.
 
-🌱 Interested In:
-
+🌱 Interested In:<br>
 Exploring new technologies and frameworks in machine learning and web application development.
 Contributing to open-source projects.
 
@@ -18,15 +15,7 @@ Contributing to open-source projects.
 
 Email: pnvdedeepya@gmail.com
 
-💻 Skills:
 
-Languages: Java, Python, C++, JavaScript, HTML, CSS, TypeScript
-
-Cloud & Frameworks: AWS, Azure, Spring, Django, ReactJS, NodeJS
-
-Databases: MySQL, PostgreSQL, MongoDB
-
-AI & Machine Learning: NLP, TensorFlow, Image Processing
 
 🏆 Achievements:
 Led a team in developing a brain tumor detection model achieving 99.8% accuracy and publishing an IEEE paper.
@@ -34,7 +23,4 @@ Led a team in developing a brain tumor detection model achieving 99.8% accuracy 
 🎯 Goals:
 Pursuing impactful roles in software development and machine learning, focusing on educational technology and innovative solutions.
 
-<!---
-Dedeepyapnv/Dedeepyapnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
