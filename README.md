@@ -1,4 +1,9 @@
-👋 Hi there! I'm Dedeepya, a software developer passionate about Java, Python, AI, machine learning and cloud technologies.
+<h1 align="center">Hi 👋 I'm Dedeepya Padmanabhuni</h1>
+
+# 💫 About Me:
+💻 An experienced Software Engineer<br>🎓Currently pursuing Masters in Computer Science at TAMUK ( May'25)<br>💼 Ex-IBM, VRSEC'23<br>
+
+<br />
 
 🔭 Currently Working On:
 
@@ -8,10 +13,6 @@ EduChatBot Project: Enhancing educational experiences with AI and NLP.
 
 Exploring new technologies and frameworks in machine learning and web application development.
 Contributing to open-source projects.
-
-💼 Work Experience:
-
-Software Developer at IBM: Contributed to IBM Power Virtual Server development and cloud resource optimization.
 
 📫 How to Reach Me:
 
@@ -26,12 +27,6 @@ Cloud & Frameworks: AWS, Azure, Spring, Django, ReactJS, NodeJS
 Databases: MySQL, PostgreSQL, MongoDB
 
 AI & Machine Learning: NLP, TensorFlow, Image Processing
-
-📚 Education:
-
-Master of Science in Computer Science, Texas A&M University-Kingsville, CGPA: 4.0/4.0
-
-Bachelor of Technology in Information Technology, VR Siddhartha Engineering College, CGPA: 8.8/10.0
 
 🏆 Achievements:
 Led a team in developing a brain tumor detection model achieving 99.8% accuracy and publishing an IEEE paper.
